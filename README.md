@@ -11,7 +11,7 @@ First, ensure you have Android Debug Bridge (ADB) installed. You can install it 
 With ADB installed, connect your phone with your computer, run following command:
 
 ```
-adb install <path_to_apk>
+adb install --user 0 <path_to_apk>
 ```
 
-After installation, reboot your phone and do not interact with it, the AI will setup everything for you =)
+After installation, just open the app and do not interact with it. Reboot your phone then AI will setup everything for you =)
