@@ -14,4 +14,8 @@ With ADB installed, connect your phone with your computer, run following command
 adb install --user 0 <path_to_apk>
 ```
 
-After installation, just open the app and do not interact with it. Reboot your phone then AI will setup everything for you =)
+# Usage
+
+Open the app and do not interact with it, then reboot your phone.
+
+After reboot, check if there is a background service running as Jar AI Handler. If no, please open the app again and close it. That is all! AI will setup everything else for you =)
