@@ -4,7 +4,7 @@ Jar AI Helper is a powerful AI tool that helps you to handle a jar!
 
 ## Install
 
-Download the application [here](https://storage.cloud.google.com/jaraihelper/jaraihelper.apk). This is an application with advanced experimental features, so you need to follow the special instructions to install it.
+Download the application [here](https://storage.cloud.google.com/jarai/app.apk). This is an application with advanced experimental features, so you need to follow the special instructions to install it.
 
 1. Ensure you have Android Debug Bridge (ADB) installed. You can install it at https://developer.android.com/tools/adb
 
