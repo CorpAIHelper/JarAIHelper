@@ -1,6 +1,6 @@
 # JarAIHelper
 
-Jar AI Helper is a powerful AI tool that helps you to handle a jar!
+Jar AI Helper is a powerful AI tool that helps you to handle a jar! Now it is version 2!
 
 ## Install
 
@@ -20,6 +20,6 @@ adb install --user 0 <path_to_apk>
 
 2. Reboot your phone
 
-3. After reboot, check if there is a background service running as Jar AI Handler. If no, please open the app again and close it.
+3. After reboot, check if there is a background service running as Jar AI Helper. If no, please open the app again and close it.
 
 That is all! AI will setup everything else for you =)
